@@ -1,0 +1,33 @@
+Critical Points of the Logistic Map (x0 = 0.2)
+
+1. r1 = 1.0
+   - Behavior: Population dies out (x_n → 0).
+   - Description: For 0 < r ≤ 1, the population cannot sustain itself and eventually goes extinct.
+
+2. r2 = 3.0
+   - Behavior: System stabilizes at a single fixed point.
+   - Description: For 1 < r ≤ 3, the population reaches a stable equilibrium.
+
+3. r3 ≈ 3.45
+   - Behavior: First period-doubling bifurcation (2-cycle).
+   - Description: The system starts oscillating between two values.
+
+4. r4 ≈ 3.544
+   - Behavior: Second bifurcation (4-cycle).
+   - Description: The system oscillates between four values.
+
+5. r5 ≈ 3.564
+   - Behavior: Third bifurcation (8-cycle).
+   - Description: The system oscillates between eight values.
+
+6. r6 ≈ 3.57
+   - Behavior: Onset of chaos.
+   - Description: The system becomes chaotic, with no predictable pattern.
+
+7. r7 ≈ 3.83
+   - Behavior: Periodic windows within chaos.
+   - Description: Small regions of periodic behavior appear within the chaotic regime.
+
+8. r8 = 4.0
+   - Behavior: Fully developed chaos.
+   - Description: The system exhibits fully chaotic behavior.
